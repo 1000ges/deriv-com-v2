@@ -11,6 +11,6 @@
     "./style.css": "./style.css"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "prynce00:registry": "https://npm.pkg.github.com/"
   }
 }

@@ -30,7 +30,7 @@ export interface AccordionBlockProps {
 }
 
 //todo: removed [slugify] from utils/../utils and added here. we need to update this because we are using this on multiple places
-// test
+// test 1
 export const slugify = (input: string): string =>
   input
     .toLowerCase()
